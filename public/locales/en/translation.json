@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "l1": "How to buy",
+    "l2": "Sales",
+    "l3": "Prices",
+    "l4": "Help",
+    "l5": "Bonuses",
+    "l6": "Blog",
+    "l7": "The shops",
+    "t1": "Entrance",
+    "btn": "Connect with us"
+  },
+
+  "home": {
+    "btn": "Get a UK address",
+    "btn2": "Sample",
+    "btn3": "Calculate",
+    "btn4": "Fast buy",
+    "btn5": "All reviews",
+    "btn6": "Subscribe"
+  },
+  
+  "how":{
+    "btn1": "Get a UK address"
+
+  },
+
+  "sales":{
+    "btn1": "Get a UK address"
+
+  }
+
+}
